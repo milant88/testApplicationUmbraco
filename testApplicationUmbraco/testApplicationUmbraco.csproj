@@ -332,6 +332,31 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Logs\UmbracoTraceLog.DESKTOP-MRCBO5I.txt" />
+    <Content Include="App_Data\Logs\UmbracoTraceLog.DESKTOP-VAE2358.txt" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\grid.editors.config.js" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\cs-CZ.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\da-DK.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\de-DE.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\en-GB.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\en-US.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\es-ES.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\fr-FR.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\he-IL.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\it-IT.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\ja-JP.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\ko-KR.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\nb-NO.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\nl-NL.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\pl-PL.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\pt-BR.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\ru-RU.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\sv-SE.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Lang\zh-CN.user.xml" />
+    <Content Include="App_Data\TEMP\ClientDependency\DESKTOP-MRCBO5I-574d8e6831086c09f00231af5637a36d-map.xml" />
+    <Content Include="App_Data\TEMP\ClientDependency\DESKTOP-VAE2358-69496518e84f06227b866351d7ca6ff0-map.xml" />
+    <Content Include="App_Data\TEMP\DistCache\DESKTOP-VAE2358\LMW3SVC2ROOT-lastsynced.txt" />
+    <Content Include="HtmlPage1.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -369,6 +394,40 @@
     <Content Include="config\BaseRestExtensions.config" />
     <Content Include="config\applications.config" />
     <Content Include="config\404handlers.config" />
+    <Content Include="App_Browsers\Form.browser" />
+    <Content Include="App_Browsers\w3cvalidator.browser" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\404handlers.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\applications.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\BaseRestExtensions.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\ClientDependency.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\Dashboard.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\EmbeddedMedia.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\ExamineIndex.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\ExamineSettings.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\feedProxy.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\FileSystemProviders.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\imageprocessor\cache.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\imageprocessor\processing.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\imageprocessor\security.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\log4net.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\metablogConfig.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\scripting.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\tinyMceConfig.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\trees.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\umbracoSettings.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Config\UrlRewriting.config" />
+    <Content Include="App_Data\NuGetBackup\20170118-110223\Web.config" />
+    <Content Include="App_Data\TEMP\ExamineIndexes\External\Index\segments.gen" />
+    <Content Include="App_Data\TEMP\ExamineIndexes\External\Index\segments_1" />
+    <Content Include="App_Data\TEMP\ExamineIndexes\InternalMember\Index\segments.gen" />
+    <Content Include="App_Data\TEMP\ExamineIndexes\InternalMember\Index\segments_1" />
+    <Content Include="App_Data\TEMP\ExamineIndexes\Internal\Index\segments.gen" />
+    <Content Include="App_Data\TEMP\ExamineIndexes\Internal\Index\segments_1" />
+    <Content Include="App_Data\TEMP\PluginCache\umbraco-plugins.DESKTOP-MRCBO5I.hash" />
+    <Content Include="App_Data\TEMP\PluginCache\umbraco-plugins.DESKTOP-MRCBO5I.list" />
+    <Content Include="App_Data\TEMP\PluginCache\umbraco-plugins.DESKTOP-VAE2358.hash" />
+    <Content Include="App_Data\TEMP\PluginCache\umbraco-plugins.DESKTOP-VAE2358.list" />
+    <Content Include="App_Data\umbraco.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -409,6 +468,9 @@
   <ItemGroup>
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll" />
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\Models\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
