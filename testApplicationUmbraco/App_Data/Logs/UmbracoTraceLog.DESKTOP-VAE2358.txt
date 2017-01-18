@@ -1,0 +1,21 @@
+﻿ 2017-01-18 11:07:26,258 [P10816/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.5.7 application starting on DESKTOP-VAE2358
+ 2017-01-18 11:07:26,277 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2017-01-18 11:07:26,286 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 8ms)
+ 2017-01-18 11:07:26,331 [P10816/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2017-01-18 11:07:26,332 [P10816/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2017-01-18 11:07:26,336 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2017-01-18 11:07:26,612 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 274ms)
+ 2017-01-18 11:07:26,625 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2017-01-18 11:07:26,635 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 10ms)
+ 2017-01-18 11:07:26,635 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2017-01-18 11:07:26,641 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 6ms)
+ 2017-01-18 11:07:26,656 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2017-01-18 11:07:26,664 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 7ms)
+ 2017-01-18 11:07:26,664 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2017-01-18 11:07:26,674 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 10ms)
+ 2017-01-18 11:07:26,717 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2017-01-18 11:07:26,722 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 3ms)
+ 2017-01-18 11:07:26,722 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2017-01-18 11:07:26,731 [P10816/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 8ms)
+ 2017-01-18 11:07:27,569 [P10816/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1374ms)
+ 2017-01-18 11:07:27,691 [P10816/D2/T5] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:50285/umbraco (UmbracoModule request)
