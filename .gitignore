@@ -240,3 +240,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+
+# Custom Project files to ignore
+**/App_Data/Logs/
+**/App_Data/[Pp]review/
+**/App_Data/TEMP/
+**/App_Data/NuGetBackup/
